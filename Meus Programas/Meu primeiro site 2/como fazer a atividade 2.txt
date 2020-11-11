@@ -1,0 +1,10 @@
+1) Salvar o arquivo atividade2.zip na máquina;
+2) Descompactar o arquivo atividade2.zip na máquina;
+3) Abrir o arquivo index.html no editor brackets;
+4) Preencher corretamente as tags meta; 
+5) Abrir o arquivo index.html no navegador com o live preview do editor brakets; 
+6) Abrir o arquivo style.css no editor brackets;
+7) Completar o código CSS de acordo com o arquivo style_css_completo.tif no visualizador de fotos do windows (atenção especial ao float e position das divs);
+8) Alterar o arquivo index.html e o style.css para criar um novo site com um tema previamente escolhido por você .
+9) Inserir links para vídeos do youtube e google maps utilizando como destino o iframe.  
+10) Salvar o projeto finalizado na pasta de atividades do google drive. 

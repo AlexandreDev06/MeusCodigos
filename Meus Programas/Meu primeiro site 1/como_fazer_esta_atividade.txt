@@ -1,0 +1,9 @@
+1) Salvar o arquivo atividade1.zip na máquina;
+2) Descompactar o arquivo atividade1.zip na máquina;
+3) Abrir o arquivo index.html no editor brackets;
+4) Abrir o arquivo index.html no navegador com o live preview do editor brakets; 
+5) Abrir o arquivo style.css no editor brackets;
+6) Abrir o arquivo style_css_completo.tif com o visualizador de fotos do windows (são 11 páginas). 
+7) Preencher o código CSS no arquivo style.css de acordo com o arquivo style_css_completo.tif.
+8) Preencher corretamente as tags meta;
+9) Alterar o código do arquivo index.html e o código do arquivo style.css para criar um novo site com o tema previamente escolhido por você (devem ser alterados todos os itens);
