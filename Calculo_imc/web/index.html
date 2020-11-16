@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Calculo IMC</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h2>Calculo IMC (index.html)</h2>
+        <div id="pergunta">
+            <p>Indice de massa corporal .</p>
+            <p>Formula: IMC = (peso / altura * altura)</p>
+            
+            <form action="calculo.jsp" method="get" target="result">
+                Peso: <input type="text" name="peso" maxlength="5"><br>
+                Altura: <input type="text" name="altura" maxlength="5"><br>
+                
+                <input type="submit" name="enviar" value="Calcular IMC">
+            </form>
+            
+        </div>
+        <div>
+            <iframe name="result" width="300" height="150">
+                
+            </iframe>
+        
+        
+        </div>
+    </body>
+</html>
